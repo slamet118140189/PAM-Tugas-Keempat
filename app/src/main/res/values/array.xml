@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="random_imgs">
+        <item>@drawable/c</item>
+        <item>@drawable/cplus</item>
+        <item>@drawable/dart</item>
+        <item>@drawable/java</item>
+        <item>@drawable/js</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/php</item>
+        <item>@drawable/python</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/swift</item>
+    </array>
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">tugas02</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_nama">Slamet Nugroho</string>
+    <string name="nav_header_nim">118140189</string>
+    <string name="nav_header_email">slamet.118140189@student.itera.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_skill">Skill</string>
+    <string name="skilldetail">Skill Detail</string>
+    <string name="textskilldetail">Coba INi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textButtonDetail">Detail</string>
+
+    <string-array name="string_skills_array">
+        <item>C</item>
+        <item>C++</item>
+        <item>Dart</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+    </string-array>
+
+    <string-array name="string_skills_descriptions">
+        <item>Kesederhanaan dan daya gabung dalam C, dasar dari banyak bahasa pemrograman modern. Sintaksisnya yang efisien dan kontrol tingkat rendah membuatnya menjadi pilihan untuk pemrograman sistem dan sistem terbenam.</item>
+        <item>Membangun dari warisan C, C++ memperkenalkan pemrograman berbasis objek, menyediakan seperangkat alat yang kuat dan fleksibel. Ini banyak digunakan dalam pengembangan game, aplikasi kinerja tinggi, dan perangkat lunak sistem.</item>
+        <item>Dart, yang dirancang oleh Google, adalah bahasa di balik Flutter, kerangka kerja untuk membangun aplikasi yang dikompilasi secara native untuk seluler, web, dan desktop. Ini menekankan produktivitas dan mempertahankan fokus pada pengembangan antarmuka pengguna.</item>
+        <item>Java, dengan filosofi "tulis sekali, jalankan di mana saja," adalah bahasa serbaguna yang digunakan secara luas dalam solusi perusahaan, aplikasi seluler (Android), dan pengembangan web. Ekosistemnya yang kuat dan portabilitasnya berkontribusi pada popularitasnya yang langgeng.</item>
+        <item>JavaScript adalah bahasa skrip web, memberikan interaktivitas pada situs web. Dengan munculnya Node.js, bahasa ini telah memperluas domainnya ke pengembangan sisi server, menjadikannya landasan pengembangan web full-stack.</item>
+        <item>Kotlin, didukung oleh Google untuk pengembangan Android, menggabungkan kekompakan dengan sintaksis yang ekspresif. Ini interoperabel dengan Java, menjadikannya pilihan menarik untuk pengembangan aplikasi Android modern dan aplikasi sisi server.</item>
+        <item>PHP, bahasa skrip sisi server, menggerakkan sebagian besar web. Dikenal karena peranannya dalam membangun situs web dinamis, PHP unggul dalam pemrosesan formulir, pengelolaan database, dan memfasilitasi pengembangan web yang cepat.</item>
+        <item>Python, dengan sintaksis bersih dan mudah dibaca, adalah bahasa serba guna yang digunakan dalam ilmu data, kecerdasan buatan, pengembangan web, dan otomatisasi. Kesederhanaan dan perpustakaan yang luas membuatnya menjadi pilihan bahasa yang sangat baik untuk pemula.</item>
+        <item>Ruby menempatkan kebahagiaan pengembang dengan sintaksis yang elegan dan mudah dibaca. Dikenal karena kerangka kerja web Ruby on Rails, ini menekankan konvensi daripada konfigurasi, memungkinkan pengembangan cepat aplikasi yang kuat dan mudah dipelihara.</item>
+        <item>Swift, dikembangkan oleh Apple, adalah bahasa utama untuk pengembangan aplikasi iOS dan macOS. Ini menggabungkan kecepatan dan keamanan, menyediakan bahasa modern dan mudah diakses untuk membangun aplikasi kinerja tinggi di seluruh ekosistem Apple.</item>
+    </string-array>
+</resources>

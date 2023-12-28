@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_skill">
+
+    <fragment
+        android:id="@+id/nav_skill"
+        android:name="com.example.tugas4.ui.skill.SkillFragment"
+        android:label="@string/menu_skill"
+        tools:layout="@layout/fragment_skill" >
+        <action
+            android:id="@+id/action_nav_skill_to_nav_skilldetail2"
+            app:destination="@id/nav_skilldetail" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_skilldetail"
+        android:name="com.example.tugas4.ui.skill.SkillDetailFragment"
+        android:label="@string/skilldetail"
+        tools:layout="@layout/fragment_skill_detail" >
+        <argument
+            android:name="extra_name"
+            app:argType="string" />
+    </fragment>
+
+</navigation>
